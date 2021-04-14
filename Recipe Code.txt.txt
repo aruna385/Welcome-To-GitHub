@@ -1,0 +1,39 @@
+1.....Recipe Name 
+
+2.....Picture
+
+3.....2 liner explaination about reipe
+
+4......read more block
+
+5.....Jump to Recipe
+<p class="has-text-align-center"><a style="text-decoration:none;color:blue;" href="#Jump-To-Recipe">Jump To Recipe</a></p>
+
+6.....How Recipe Invented
+
+7.....Step by step Recipe with Pictures
+
+8......Print the recipe
+<h4 id="Jump-To-Recipe">Print Recipe</h4>
+[recipe title="Mushroom White Pasta" servings="2-3" preptime="10 mins" cooktime="20 mins" difficulty="easy" 
+image="https://en-support.files.wordpress.com/2014/01/food-dinner-pasta-broccoli.jpg"
+description="Cheesy easy white Mushroom pasta. Best for light dinner." ] 
+
+[recipe-notes] Author : Aruna Kamble[/recipe-notes]
+
+[recipe-ingredients]
+- 
+- 
+
+[/recipe-ingredients]
+
+[recipe-directions]
+[/recipe-directions]
+
+-------------------------------------------------------------------------
+9......Recipe Notes 
+
+Do try the recipe and provide your comments. Do like and share. Enjoy cooking .
+<!-- wp:paragraph -->
+<p><strong>Do try the recipe and let me know your comments. Enjoy cooking </strong>??</p>
+<!-- /wp:paragraph -->
